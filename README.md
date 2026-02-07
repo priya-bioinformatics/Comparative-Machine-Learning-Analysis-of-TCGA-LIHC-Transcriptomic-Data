@@ -1,4 +1,4 @@
-Multi-Model Machine Learning Analysis of TCGA-LIHC RNA-Seq Data for Tumor Classification and Robust Gene Discovery
+# Multi-Model Machine Learning Analysis of TCGA-LIHC RNA-Seq Data for Tumor Classification and Robust Gene Discovery
 
 **Project Overview**
 This project applies multiple machine learning models to TCGA Liver Hepatocellular Carcinoma (LIHC) RNA-seq data to classify tumor vs normal samples and identify robust tumor-associated genes. To reduce model-specific bias, feature importance results from Logistic Regression, Random Forest, and XGBoost are compared to identify consensus genes consistently ranked across models.
